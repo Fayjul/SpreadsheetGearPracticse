@@ -1,0 +1,6 @@
+@SpreadsheetGear_HostAddress = http://localhost:5231
+
+GET {{SpreadsheetGear_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
